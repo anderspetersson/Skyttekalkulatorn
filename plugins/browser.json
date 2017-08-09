@@ -12,9 +12,6 @@
         },
         "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "com.phonegap.skyttekalkulatorn"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.phonegap.skyttekalkulatorn"
         }
     },
     "dependent_plugins": {}
